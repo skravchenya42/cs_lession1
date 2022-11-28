@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\me\study\csharp\lession1\bin\Debug\net6.0\lession1.exe
+C:\Users\User\Desktop\me\study\csharp\lession1\bin\Debug\net6.0\lession1.deps.json
+C:\Users\User\Desktop\me\study\csharp\lession1\bin\Debug\net6.0\lession1.runtimeconfig.json
+C:\Users\User\Desktop\me\study\csharp\lession1\bin\Debug\net6.0\lession1.dll
+C:\Users\User\Desktop\me\study\csharp\lession1\bin\Debug\net6.0\lession1.pdb
+C:\Users\User\Desktop\me\study\csharp\lession1\obj\Debug\net6.0\lession1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\me\study\csharp\lession1\obj\Debug\net6.0\lession1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\me\study\csharp\lession1\obj\Debug\net6.0\lession1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\me\study\csharp\lession1\obj\Debug\net6.0\lession1.AssemblyInfo.cs
+C:\Users\User\Desktop\me\study\csharp\lession1\obj\Debug\net6.0\lession1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\me\study\csharp\lession1\obj\Debug\net6.0\lession1.dll
+C:\Users\User\Desktop\me\study\csharp\lession1\obj\Debug\net6.0\refint\lession1.dll
+C:\Users\User\Desktop\me\study\csharp\lession1\obj\Debug\net6.0\lession1.pdb
+C:\Users\User\Desktop\me\study\csharp\lession1\obj\Debug\net6.0\lession1.genruntimeconfig.cache
+C:\Users\User\Desktop\me\study\csharp\lession1\obj\Debug\net6.0\ref\lession1.dll
